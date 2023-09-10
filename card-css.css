@@ -5,6 +5,7 @@
 .card-image{
     width: 100%;
     height: auto;
+    border-radius:10px 10px 0 0;
 }
 .top-margin {
     border: 1px solid lightgrey;
