@@ -28,3 +28,5 @@
     border-radius: 0 0 10px 10px;
     box-sizing: border-box;
 }
+
+/*he tenido que añadir el box sizing porque el top bottom se me quedaba más pequeño aunque tuviese las mismas medidas que el resto, no he logrado averigüar por qué
