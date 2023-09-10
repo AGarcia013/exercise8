@@ -1,0 +1,46 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.recuadro {
+    background-color: #858e96;
+    width: 40ch;
+    height: 150px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.imageCap {
+    color: #ffffff;
+    opacity: 0.7;
+    font-size: xx-large;
+}
+
+.top-margin {
+    border: 1px solid lightgrey;
+    display: inline-block;
+    border-radius: 10px 10px 0 0;
+    box-sizing: border-box;
+}
+
+.medium-margin {
+    border: 1px solid lightgrey;
+    width: 40ch;
+    height: auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.bottom-margin {
+    border: 1px solid lightgrey;
+    width: 40ch;
+    height: auto;
+    padding: 15px;
+    border-radius: 0 0 10px 10px;
+    box-sizing: border-box;
+}
