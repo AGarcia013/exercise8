@@ -23,7 +23,7 @@
 
 .top-margin {
     border: 1px solid lightgrey;
-    display: inline-block;
+  
     border-radius: 10px 10px 0 0;
     box-sizing: border-box;
 }
