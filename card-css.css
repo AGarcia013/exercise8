@@ -10,13 +10,15 @@
     border: 1px solid lightgrey;
     width: 40ch;
     height: auto;
-    border-radius: 10px 10px 0 0;  
+    border-radius: 10px 10px 0 0; 
+    box-sizing: border-box; 
 }
 .medium-margin {
     border: 1px solid lightgrey;
     width: 40ch;
     height: auto;
     padding: 15px;
+    box-sizing: border-box;
 }
 .bottom-margin {
     border: 1px solid lightgrey;
@@ -24,4 +26,5 @@
     height: auto;
     padding: 15px;
     border-radius: 0 0 10px 10px;
+    box-sizing: border-box;
 }
